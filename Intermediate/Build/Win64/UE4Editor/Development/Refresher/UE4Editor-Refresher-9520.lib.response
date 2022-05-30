@@ -1,0 +1,18 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Refresher-9520.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\RefresherEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\UE4Editor\Development\Refresher\MainCharacter.cpp.obj"
+"C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\UE4Editor\Development\Refresher\Refresher.cpp.obj"
+"C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\UE4Editor\Development\Refresher\RefresherGameModeBase.cpp.obj"
+"C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\UE4Editor\Development\Refresher\MainCharacter.gen.cpp.obj"
+"C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\UE4Editor\Development\Refresher\Refresher.init.gen.cpp.obj"
+"C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\UE4Editor\Development\Refresher\RefresherGameModeBase.gen.cpp.obj"
+"C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\UE4Editor\Development\Refresher\Default.rc2.res"
+/OUT:"C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\UE4Editor\Development\Refresher\UE4Editor-Refresher-9520.lib"
+/INCLUDE:IMPLEMENT_MODULE_Refresher

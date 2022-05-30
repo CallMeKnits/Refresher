@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Refresher.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B2A02669-B63A-49AA-8063-60A65707BFC6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Refresher.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RefresherEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{260E3053-9C2C-4F18-8C36-AEDD46E1D48B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Refresher">
+      <UniqueIdentifier>{990B064C-ED99-456A-B64D-A1C46A33DA18}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Refresher\MainCharacter.cpp">
+      <Filter>Source\Refresher</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Refresher\MainCharacter.h">
+      <Filter>Source\Refresher</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Refresher\MyObject.cpp">
+      <Filter>Source\Refresher</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Refresher\MyObject.h">
+      <Filter>Source\Refresher</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Refresher\Refresher.Build.cs">
+      <Filter>Source\Refresher</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Refresher\Refresher.cpp">
+      <Filter>Source\Refresher</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Refresher\Refresher.h">
+      <Filter>Source\Refresher</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Refresher\RefresherGameModeBase.cpp">
+      <Filter>Source\Refresher</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Refresher\RefresherGameModeBase.h">
+      <Filter>Source\Refresher</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

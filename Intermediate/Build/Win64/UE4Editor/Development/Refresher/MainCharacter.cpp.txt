@@ -1,0 +1,7 @@
+C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\UE4Editor\Development\Refresher\Definitions.Refresher.h
+C:\Users\knits\Documents\Unreal Projects\Refresher\Source\Refresher\MainCharacter.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\UE4Editor\Inc\Refresher\MainCharacter.generated.h

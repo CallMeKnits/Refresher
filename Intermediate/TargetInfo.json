@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Refresher",
+			"Path": "C:\\Users\\knits\\Documents\\Unreal Projects\\Refresher\\Source\\Refresher.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RefresherEditor",
+			"Path": "C:\\Users\\knits\\Documents\\Unreal Projects\\Refresher\\Source\\RefresherEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

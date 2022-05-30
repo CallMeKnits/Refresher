@@ -1,0 +1,3 @@
+C:\Users\knits\Documents\Unreal Projects\Refresher\Intermediate\Build\Win64\UE4Editor\Development\Refresher\Definitions.Refresher.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
